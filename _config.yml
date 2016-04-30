@@ -1,0 +1,28 @@
+name: Testcase
+favicon: null
+layout_spectrum: 0.5492795847821981
+typography_spectrum: 0.43593412498012185
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9391743713058531
+  lightness: 0.23256922094151378
+  saturation: 0.3008303279057145
+  rhythmicContrast: 0.9752706775907427
+purpose: []
